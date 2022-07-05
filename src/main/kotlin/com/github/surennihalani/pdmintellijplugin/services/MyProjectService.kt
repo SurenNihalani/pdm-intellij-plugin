@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.surennihalani.pdmintellijplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.surennihalani.pdmintellijplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
